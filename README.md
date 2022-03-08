@@ -1,6 +1,4 @@
-# sqlHomeWork3
-Patika.dev SQL Modülü Ödevleri
-Aşağıdaki sorgu senaryoları dvdrental örnek veri tabanı üzerinden gerçekleştirilmiştir.
+# sqlHomeWork3 Patika.dev SQL Modülü Ödevleri  Aşağıdaki sorgu senaryoları dvdrental örnek veri tabanı üzerinden gerçekleştirilmiştir.
 `Soru`
 country tablosunda bulunan country sütunundaki ülke isimlerinden 'A' karakteri ile başlayıp 'a' karakteri ile sonlananları sıralayınız.
 ```sql
